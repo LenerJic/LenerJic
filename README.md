@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @LenerJic
-- 👀 I’m interested in creating web applications.
-- 🌱 I am currently learning how to create full stack web applications.
-- 💞️ I'm looking to collaborate on new web projects.
-- 📫 How to get to me; via my personal email: jhostinchamorro_10@outlook.com
+# 👋 Hola!, Soy Jhostin Inga
+- 👀 Estoy interesado en crear aplicaciones web, así como aprender nuevos campos en la programación.
+- Actualmente me sigo especializando en aprender programación para proyectos web, tanto Backend como Frontend, estoy emocionado de poder contribuir en proyectos importantes en un futuro.
 
-<!---
-LenerJic/LenerJic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> [!Note]
+> Seguiré creando proyectos con Frameworks de Javascript y actualizaré mi status según voy avanzando.
